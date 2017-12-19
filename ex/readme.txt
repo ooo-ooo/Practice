@@ -1,0 +1,1 @@
+This is exercises of book "Python Crash Course"
